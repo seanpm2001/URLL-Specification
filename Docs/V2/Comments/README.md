@@ -23,8 +23,12 @@ block comment
 
 Comment syntax is in use for all non-links in a `.urll` file.
 
+## Usage notes and rationale
+
+I used `--` as the comment format, as I couldn't use `//` `#` or `?` due to its use in file URL schemes, and I felt like this one worked best. The multi-line comment is an original spin on it, making it into a fat arrow shape for block comments. After some thinking, I decided that for safety, comments have to be at the start of a line, and not after a URL, as doing this may cause issues, such as filenames like this: `https://www.example.com/website/index.html#My--section`
+
 ---
 
-**Article version:** `1 (2022, Friday, January 21st at 7:27 pm)`
+**Article version:** `2 (2022, Friday, January 21st at 10:07 pm)`
 
 ---
