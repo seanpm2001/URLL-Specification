@@ -183,6 +183,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-elm-lang",
+      "name": "Seanpm2001 Elm language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94873709?v=4",
+      "profile": "https://github.com/elm",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
