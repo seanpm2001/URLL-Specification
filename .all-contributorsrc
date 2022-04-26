@@ -30,6 +30,23 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "URLL-Specification",
+      "name": "URLL file specification",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87390253?v=4",
+      "profile": "https://github.com/seanpm2001/URLL-Specification",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
