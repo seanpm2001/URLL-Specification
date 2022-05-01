@@ -227,12 +227,22 @@
         "code",
         "doc",
         "projectManagement",
-        a"security",
+        "security",
         "data",
         "content",
         "design",
         "maintenance",
         "ideas"
+      ]
+    },
+    {
+      "login": "Qamberhasnain",
+      "name": "Qamber Hasnain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63412921?v=4",
+      "profile": "https://www.linkedin.com/in/qamberhasnain/",
+      "contributions": [
+        "design",
+        "content"
       ]
     }
   ],
