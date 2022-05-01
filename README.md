@@ -6,7 +6,7 @@
 
 # URLL-Specification 
 
-![URLICO_1.png} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/URLICO_1.png)
+![This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](https://user-images.githubusercontent.com/63412921/166099621-c04b4d25-5d2e-4698-b7cf-82580291f208.svg)
 
 # By:
 
