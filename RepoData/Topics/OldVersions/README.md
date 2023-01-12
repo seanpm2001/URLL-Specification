@@ -1,0 +1,9 @@
+url
+wiki
+gplv3
+specification
+md
+txt
+gpl3
+urll
+url-list
