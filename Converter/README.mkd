@@ -1,0 +1,14 @@
+
+***
+
+# Deprecated/[Moved](https://github.com/seanpm2001/URLL/tree/URLL_Main-dev/Converter/)
+
+The URLL specification has expanded its scope to a 2nd repository. This folder and its contents won't be removed, but updates should take place at:
+
+> [:octocat: `seanpm2001/URLL`](https://github.com/seanpm2001/URLL/) located at [:octocat: `tree/URLL_Main-dev/Converter/`](https://github.com/seanpm2001/URLL/tree/URLL_Main-dev/Converter/)
+
+***
+
+**File version:** `1 (2023, Thursday, January 12th at 3:44 pm PST)`
+
+***
