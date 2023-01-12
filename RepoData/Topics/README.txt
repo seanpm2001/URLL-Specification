@@ -7,3 +7,11 @@ txt
 gpl3
 urll
 url-list
+urll-specification
+urll-lang
+urll-language
+spec
+urll-spec
+link-list
+link-listing
+urll-format
